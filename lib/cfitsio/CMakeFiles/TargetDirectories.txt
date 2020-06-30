@@ -1,0 +1,13 @@
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/install.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/rebuild_cache.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/FPack.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/cfitsio.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/test.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/TestProg.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/Funpack.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/Fitscopy.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/list_install_components.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/cookbook.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/install/strip.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/install/local.dir
+/home/cs24/Documents/squeeze/lib/cfitsio/CMakeFiles/edit_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs24/Documents/squeeze/lib/cfitsio/fitsio.h
+stdio.h
+-
+sys/types.h
+-
+stdlib.h
+-
+limits.h
+-
+longnam.h
+/home/cs24/Documents/squeeze/lib/cfitsio/longnam.h
+
+/home/cs24/Documents/squeeze/lib/cfitsio/longnam.h
+
+/home/cs24/Documents/squeeze/lib/cfitsio/testprog.c
+string.h
+-
+stdlib.h
+-
+fitsio.h
+/home/cs24/Documents/squeeze/lib/cfitsio/fitsio.h
+
